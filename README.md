@@ -51,7 +51,7 @@ This project focuses on analyzing marketing campaign performance to identify cus
 ---
 
 ## Dashboard Preview
-(Add screenshots here)
+
 
 ---
 
